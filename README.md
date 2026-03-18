@@ -1,6 +1,6 @@
 ## hello my name is dongyue
 
-欢迎你来到我的==Github==仓库
+欢迎你来到我的Github仓库
 
 我的技术站有如下：
 
