@@ -4,7 +4,7 @@
 
 我的技术站有如下：
 
-html,css,python,git
+python,web
 
 虽然我的技术不好，但是会继续深造的
 
